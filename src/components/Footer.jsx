@@ -6,8 +6,7 @@ const Footer = () => {
       <nav className="ss:w-full sm:max-w-5xl flex-wrap flex justify-around">
         <div className="w-1/2 ss:w-1/3">
           <p className="text-xs p-3 text-gray-200">
-            All right reserved &copy; 2023. Developed and Managed By - Shivam
-            Saini
+            All rights reserved &copy; 2023. Developed and Managed By - Shivsagar Basarikatti
           </p>
         </div>
         <div className="ss:w-[400px]   flex flex-wrap justify-end">
